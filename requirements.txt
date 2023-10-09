@@ -26,5 +26,4 @@ python-dateutil==2.8.2
 pytz==2023.3.post1
 requests==2.31.0
 scipy
-sklearn
-xgboost==1.6.2
+scikit-learn

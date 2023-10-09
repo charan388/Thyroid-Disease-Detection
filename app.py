@@ -62,3 +62,5 @@ def predict():
 
 if __name__ == '__main__':
     app.run(debug=True)
+    const PORT = process.env.PORT || 8080
+    app.set("port",PORT)

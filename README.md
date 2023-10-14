@@ -1,55 +1,61 @@
-# Thyroid Disease Detection
+# Detecting Thyroid Diseases
 
-Thyroid disease is a very common problem in India, more than one crore people are suffering with the disease every year. Thyroid disorder can speed up or slow down the metabolism of the body.
+Thyroid diseases are a prevalent health concern in India, affecting millions of individuals annually. These conditions can either accelerate or decelerate the body's metabolic processes. The primary aim of this project is to predict whether an individual has compensated hypothyroid, primary hypothyroid, secondary hypothyroid, or no thyroid disorder using Machine Learning techniques.
 
-The main objective of this project is to predict if a person is having compensated hypothyroid, primary hypothyroid, secondary hypothyroid or negative (no thyroid) with the help of Machine Learning. Classification algorithms such as Random Forest, XGBoost and KNN Model have been trained on the thyroid dataset, UCI Machine Learning repository. After hyperparameter tuning on KNN model has performed well with better accuracy. Application has deployed on Heroku with the help of flask framework.
+## Classification Models
 
-# Technical Aspects
+Various classification algorithms, including Random Forest, XGBoost, and K-Nearest Neighbors (KNN), have been trained on the thyroid dataset obtained from the UCI Machine Learning Repository. After fine-tuning hyperparameters, the KNN model achieved superior accuracy. The application has been deployed on Heroku, powered by the Flask framework.
 
-- Python 3.7 and more
-- Important Libraries: sklearn, pandas, numpy, matplotlib & seaborn
-- Front-end: HTML, CSS 
+## Technical Aspects
+
+- Python 3.7 or higher
+- Key Libraries: scikit-learn, pandas, numpy, matplotlib, and seaborn
+- Front-end: HTML and CSS
 - Back-end: Flask framework
-- IDE: Jupyter Notebook, Pycharm & VSCode
-- Database: Cassandra 
-- Deployment: Heroku
+- Integrated Development Environments: Jupyter Notebook, PyCharm, and VSCode
+- Database: Cassandra
+- Deployment: AWS EC2
 
-# How to run this app 
+## Running the Application
 
-Code is written in Python 3.7 and more. If you don't have python installed on your system, click here https://www.python.org/downloads/ to install.
+To run the application, follow these steps:
 
-- Create virtual environment - conda create -n myenv python=3.7
-- Activate the environment - conda activate myenv
-- Install the packages - pip install -r requirements.txt
-- Run the app - python run app.py
+1. If you don't have Python installed, you can download it from [python.org](https://www.python.org/downloads/).
 
-# Workflow
+2. Create a virtual environment: `conda create -n myenv python=3.7`
 
-## Data Collection
+3. Activate the environment: `conda activate myenv`
 
-Thyroid Disease Data Set from UCI Machine Learning Repository.
+4. Install the necessary packages: `pip install -r requirements.txt`
 
-Link:https://archive.ics.uci.edu/ml/datasets/thyroid+disease
+5. Run the app: `python run app.py`
 
-## Data Pre-processing
+## Project Workflow
 
-- Missing values handling by Simple imputation (KNN Imputer)
-- Outliers detection and removal by boxplot and percentile methods
-- Categorical features handling by ordinal encoding and label encoding
-- Feature scaling done by Standard Scalar method
-- Imbalanced dataset handled by SMOTE
-- Drop unnecessary columns
+### Data Collection
 
-## Model Creation and Evaluation
+The project utilizes the Thyroid Disease Data Set from the UCI Machine Learning Repository. You can access the dataset [here](https://archive.ics.uci.edu/ml/datasets/thyroid+disease).
 
-- Various classification algorithms like Random Forest, XGBoost, KNN etc tested.
-- Random Forest, XGBoost and KNN were all performed well. 
-- Hyper parameter tuning was performed using RandomizedSearchCV
-- Model performance evaluated based on accuracy, confusion matrix, classification report.
+### Data Pre-processing
 
+- Addressing missing values using Simple Imputation (KNN Imputer)
+- Detecting and removing outliers through boxplots and percentile-based methods
+- Handling categorical features via ordinal and label encoding
+- Applying feature scaling using the Standard Scaler method
+- Handling imbalanced datasets using SMOTE
+- Eliminating unnecessary columns
 
-## Database Connection
-Cassandra database used for this project.
+### Model Development and Evaluation
 
-## Model Deployment
-The final model is deployed on heroku using Flask framework.
+- Testing various classification algorithms, including Random Forest, XGBoost, and KNN
+- All three models (Random Forest, XGBoost, and KNN) performed well
+- Hyperparameter tuning using RandomizedSearchCV
+- Model performance assessment based on accuracy, confusion matrix, and classification report
+
+### Database Integration
+
+A Cassandra database is employed for this project.
+
+### Model Deployment
+
+The final model is deployed on AWS EC2 using the Flask framework.

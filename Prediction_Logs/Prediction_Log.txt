@@ -1,0 +1,153 @@
+2023-10-05/01:04:12		Start of Prediction
+2023-10-05/01:04:12		Entered the get_data method of the Data_Getter class
+2023-10-05/01:04:12		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:04:12		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:04:12		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:04:12		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:04:12		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:04:12		Entered the load_model method of the File_Operation class
+2023-10-05/01:04:12		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'pred_output/models/KMeans/KMeans.sav'
+2023-10-05/01:04:12		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2023-10-05/01:04:12		Error occured while running the prediction!! Error:: 
+2023-10-05/01:05:28		Start of Prediction
+2023-10-05/01:05:28		Entered the get_data method of the Data_Getter class
+2023-10-05/01:05:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:05:28		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:05:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:05:28		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:05:28		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:05:28		Entered the load_model method of the File_Operation class
+2023-10-05/01:05:28		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'pred_output/models/KMeans/KMeans.sav'
+2023-10-05/01:05:28		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2023-10-05/01:05:28		Error occured while running the prediction!! Error:: 
+2023-10-05/01:06:01		Start of Prediction
+2023-10-05/01:06:01		Entered the get_data method of the Data_Getter class
+2023-10-05/01:06:01		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:06:01		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:06:01		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:06:01		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:06:01		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:06:01		Entered the load_model method of the File_Operation class
+2023-10-05/01:06:01		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:06:01		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:06:01		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:06:01		Entered the load_model method of the File_Operation class
+2023-10-05/01:06:01		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:06:01		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:06:01		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:06:01		Entered the load_model method of the File_Operation class
+2023-10-05/01:06:01		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:06:01		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:06:01		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:06:01		Entered the load_model method of the File_Operation class
+2023-10-05/01:06:01		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:06:02		Error occured while running the prediction!! Error:: [Errno 2] No such file or directory: 'Prediction_Output_File/Predictions.csv'
+2023-10-05/01:07:14		Start of Prediction
+2023-10-05/01:07:14		Entered the get_data method of the Data_Getter class
+2023-10-05/01:07:14		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:07:14		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:07:14		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:07:14		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:07:14		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:07:14		Entered the load_model method of the File_Operation class
+2023-10-05/01:07:14		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:07:14		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:07:14		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:07:14		Entered the load_model method of the File_Operation class
+2023-10-05/01:07:14		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:07:14		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:07:14		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:07:14		Entered the load_model method of the File_Operation class
+2023-10-05/01:07:14		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:07:14		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:07:14		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:07:14		Entered the load_model method of the File_Operation class
+2023-10-05/01:07:14		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:07:14		End of Prediction
+2023-10-05/01:12:48		Start of Prediction
+2023-10-05/01:12:48		Entered the get_data method of the Data_Getter class
+2023-10-05/01:12:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:12:48		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:12:48		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:12:48		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:12:48		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:12:48		Entered the load_model method of the File_Operation class
+2023-10-05/01:12:48		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:12:48		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:12:48		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:12:48		Entered the load_model method of the File_Operation class
+2023-10-05/01:12:48		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:12:48		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:12:48		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:12:48		Entered the load_model method of the File_Operation class
+2023-10-05/01:12:48		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:12:48		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:12:48		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:12:48		Entered the load_model method of the File_Operation class
+2023-10-05/01:12:48		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:12:49		End of Prediction
+2023-10-05/01:32:23		Start of Prediction
+2023-10-05/01:32:23		Entered the get_data method of the Data_Getter class
+2023-10-05/01:32:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:32:23		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:32:23		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:32:23		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:32:23		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:32:23		Entered the load_model method of the File_Operation class
+2023-10-05/01:32:23		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:32:23		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:32:23		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:32:23		Entered the load_model method of the File_Operation class
+2023-10-05/01:32:23		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:32:23		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:32:23		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:32:23		Entered the load_model method of the File_Operation class
+2023-10-05/01:32:23		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:32:23		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:32:23		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:32:23		Entered the load_model method of the File_Operation class
+2023-10-05/01:32:24		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:32:24		Error occured while running the prediction!! Error:: [Errno 2] No such file or directory: 'Prediction_Output_File/Predictions.csv'
+2023-10-05/01:33:02		Start of Prediction
+2023-10-05/01:33:02		Entered the get_data method of the Data_Getter class
+2023-10-05/01:33:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-05/01:33:02		Entered the is_null_present method of the Preprocessor class
+2023-10-05/01:33:02		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-05/01:33:02		Entered the impute_missing_values method of the Preprocessor class
+2023-10-05/01:33:02		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-05/01:33:02		Entered the load_model method of the File_Operation class
+2023-10-05/01:33:02		Model File KMeans loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:33:02		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:33:02		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:33:02		Entered the load_model method of the File_Operation class
+2023-10-05/01:33:02		Model File RandomForest1 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:33:02		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:33:02		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:33:02		Entered the load_model method of the File_Operation class
+2023-10-05/01:33:02		Model File KNN2 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:33:02		Entered the find_correct_model_file method of the File_Operation class
+2023-10-05/01:33:02		Exited the find_correct_model_file method of the Model_Finder class.
+2023-10-05/01:33:02		Entered the load_model method of the File_Operation class
+2023-10-05/01:33:02		Model File KNN0 loaded. Exited the load_model method of the Model_Finder class
+2023-10-05/01:33:02		End of Prediction
+2023-10-08/00:48:22		Start of Prediction
+2023-10-08/00:48:22		Entered the get_data method of the Data_Getter class
+2023-10-08/00:48:22		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] No such file or directory: 'Prediction_InputFileFromUser/InputFile.csv'
+2023-10-08/00:48:22		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2023-10-08/00:48:22		Error occured while running the prediction!! Error:: 
+2023-10-08/00:49:22		Start of Prediction
+2023-10-08/00:49:22		Entered the get_data method of the Data_Getter class
+2023-10-08/00:49:22		Exception occured in get_data method of the Data_Getter class. Exception message: [Errno 2] No such file or directory: 'InputFile.csv'
+2023-10-08/00:49:22		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2023-10-08/00:49:22		Error occured while running the prediction!! Error:: 
+2023-10-08/00:50:28		Start of Prediction
+2023-10-08/00:50:28		Entered the get_data method of the Data_Getter class
+2023-10-08/00:50:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-08/00:50:28		Entered the is_null_present method of the Preprocessor class
+2023-10-08/00:50:28		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2023-10-08/00:50:28		Entered the impute_missing_values method of the Preprocessor class
+2023-10-08/00:50:28		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2023-10-08/00:50:28		Entered the load_model method of the File_Operation class
+2023-10-08/00:50:28		Exception occured in load_model method of the Model_Finder class. Exception message:  [Errno 2] No such file or directory: 'models/KMeans/KMeans.sav'
+2023-10-08/00:50:28		Model File KMeans could not be saved. Exited the load_model method of the Model_Finder class
+2023-10-08/00:50:28		Error occured while running the prediction!! Error:: 

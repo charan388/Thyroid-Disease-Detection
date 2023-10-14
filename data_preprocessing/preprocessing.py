@@ -1,10 +1,9 @@
 import pandas as pd
 import numpy as np
-#from imblearn.over_sampling import RandomOverSampler
 from sklearn.impute import KNNImputer
 from sklearn.preprocessing import LabelEncoder
 import pickle
-#from imblearn.over_sampling import RandomOverSampler
+from imblearn.over_sampling import RandomOverSampler
 
 
 class Preprocessor:
@@ -136,7 +135,7 @@ class Preprocessor:
 
     # we will save the encoder as pickle to use when we do the prediction. We will need to decode the predcited values
     # back to original
-     with open('EncoderPickle/enc.pickle', 'wb') as file:
+     with open('C:/Users/charan/Desktop/EncoderPickle/enc.pickle', 'wb') as file:
          pickle.dump(encode, file)
 
 
@@ -184,8 +183,8 @@ class Preprocessor:
 
 
 
-        #rdsmple = RandomOverSampler()
-        x_sampled, y_sampled = X, Y
+        rdsmple = RandomOverSampler()
+        x_sampled, y_sampled = rdsmple.fit_sample(X, Y)
 
         return x_sampled,y_sampled
     def impute_missing_values(self, data):

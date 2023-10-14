@@ -1,0 +1,42 @@
+2023-10-03/09:12:00		Entered the get_data method of the Data_Getter class
+2023-10-03/09:12:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:12:36		Entered the get_data method of the Data_Getter class
+2023-10-03/09:12:36		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:13:30		Entered the get_data method of the Data_Getter class
+2023-10-03/09:13:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:15:23		Entered the get_data method of the Data_Getter class
+2023-10-03/09:15:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:45:54		Entered the get_data method of the Data_Getter class
+2023-10-03/09:45:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:47:38		Entered the get_data method of the Data_Getter class
+2023-10-03/09:47:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:48:24		Entered the get_data method of the Data_Getter class
+2023-10-03/09:48:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:51:26		Entered the get_data method of the Data_Getter class
+2023-10-03/09:51:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:52:03		Entered the get_data method of the Data_Getter class
+2023-10-03/09:52:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:53:44		Entered the get_data method of the Data_Getter class
+2023-10-03/09:53:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:54:45		Entered the get_data method of the Data_Getter class
+2023-10-03/09:54:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:58:04		Entered the get_data method of the Data_Getter class
+2023-10-03/09:58:04		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:58:19		Entered the get_data method of the Data_Getter class
+2023-10-03/09:58:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/09:59:19		Entered the get_data method of the Data_Getter class
+2023-10-03/09:59:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/10:00:44		Entered the get_data method of the Data_Getter class
+2023-10-03/10:00:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/10:01:30		Entered the get_data method of the Data_Getter class
+2023-10-03/10:01:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/10:01:54		Entered the get_data method of the Data_Getter class
+2023-10-03/10:01:54		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/10:13:45		Entered the get_data method of the Data_Getter class
+2023-10-03/10:13:45		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/10:16:09		Entered the get_data method of the Data_Getter class
+2023-10-03/10:16:09		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-03/10:17:44		Entered the get_data method of the Data_Getter class
+2023-10-03/10:17:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2023-10-04/11:04:46		Entered the get_data method of the Data_Getter class
+2023-10-04/11:04:46		Data Load Successful.Exited the get_data method of the Data_Getter class

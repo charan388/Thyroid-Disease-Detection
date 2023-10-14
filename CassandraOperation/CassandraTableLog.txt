@@ -1,0 +1,8 @@
+2023-10-02/15:12:15		Table already present in database
+2023-10-02/15:12:15		Database closed successfully
+2023-10-02/15:16:57		Error while creating table: ('Unable to connect to any servers', {'83cb7120-56e7-4f6f-91f0-4792b50c20d3-us-east1.db.astra.datastax.com:29042:3e2dc99a-db61-49f2-8b1e-c731f7777c0a': OperationTimedOut('errors=None, last_host=None'), '83cb7120-56e7-4f6f-91f0-4792b50c20d3-us-east1.db.astra.datastax.com:29042:df4dfc2a-e9b9-4d58-b1e1-24cb196521fc': OperationTimedOut('errors=None, last_host=None'), '83cb7120-56e7-4f6f-91f0-4792b50c20d3-us-east1.db.astra.datastax.com:29042:2f050c7b-5bca-4395-8aa4-9518af5fae33': OperationTimedOut('errors=None, last_host=None')}) 
+2023-10-02/15:16:57		Database closed successfully
+2023-10-02/17:32:03		Tables created successfully!!
+2023-10-02/17:32:03		Database closed successfully
+2023-10-02/17:34:45		Table already present in database
+2023-10-02/17:34:45		Database closed successfully
